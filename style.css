@@ -1,0 +1,37 @@
+#aqui{
+    font: normal 20px Arial, sans-serif;
+    color: white;
+    background: green;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+}
+
+
+body{
+    background: rgb(70, 142, 236);
+    font: normal 14px Arial, sans-serif;
+    color: #333;
+    text-align: center;
+}
+
+section{
+    background: white;
+    font: normal 20px Arial, sans-serif;
+    width: 500px;
+    height: 350px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 140px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.364);
+}
+    
+
+#mensagem{
+    text-align: center;
+    line-height: 350px;
+}
